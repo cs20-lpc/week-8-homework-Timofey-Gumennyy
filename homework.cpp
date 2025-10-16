@@ -28,6 +28,4 @@ int main()
     shouldCreateArraystack->push(6);
     shouldCreateArraystack->push(7);
     cout << " " << shouldCreateArraystack->getLength();
-
-
 }
